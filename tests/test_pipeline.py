@@ -1,6 +1,5 @@
 import os
 import joblib
-import pandas as pd
 import pytest
 from fastapi.testclient import TestClient
 from sklearn.linear_model import LogisticRegression
